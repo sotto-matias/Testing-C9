@@ -1,0 +1,24 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Testing ",
+  "main": "index.js",
+  "dependencies": {
+    "browserify": "^14.4.0",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sotto-matias/Testing-C9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sotto-matias/Testing-C9/issues"
+  },
+  "homepage": "https://github.com/sotto-matias/Testing-C9#readme"
+}
